@@ -11,7 +11,7 @@
 python schedule.py
 ```
 ### Output
-![https://github.com/saikrish44/Assignment-4-Implementing-Control-Structures/ScreenShots/py.png]
+![ScreenShots/py.png]
 
 ---
 
@@ -20,4 +20,4 @@ python schedule.py
 node schedule.js
 ```
 ### Output
-![https://github.com/saikrish44/Assignment-4-Implementing-Control-Structures/ScreenShots/js.png]
+![ScreenShots/js.png]
